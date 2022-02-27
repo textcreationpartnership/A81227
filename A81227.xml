@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a friend. Shewing, the illegall proceedings of the two houses of Parliament and observing God's aversenesse to their actions. Which caused the authours returne to the king and his alleagiance.</title>
+            <author>A. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81227</idno>
+            <idno type="STC">Wing C7A</idno>
+            <idno type="STC">ESTC R218153</idno>
+            <idno type="EEBO-CITATION">99899334</idno>
+            <idno type="PROQUEST">99899334</idno>
+            <idno type="VID">153075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2346:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a friend. Shewing, the illegall proceedings of the two houses of Parliament and observing God's aversenesse to their actions. Which caused the authours returne to the king and his alleagiance.</title>
+                  <author>A. C.</author>
+                  <author>Cowley, Abraham, 1618-1667, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Oxford [i.e. London :</pubPlace>
+                  <date>printed in the yeare M.DC.XLV. [1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: A.C.</note>
+                  <note>Sometimes attributed to Abraham Cowley.</note>
+                  <note>A London counterfeit.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Allegiance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153075:1"/>
+            <p>A LETTER TO A FRIEND. <hi>Shewing,</hi> The Illegall proceedings of the Two Houſes of PARLIAMENT: <hi>And obſerving</hi> GOD'<hi>s averſeneſſe to their Actions.</hi>
+            </p>
+            <p>Which cauſed the Authours returne to the KING and His Alleagiance.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed in the yeare <hi>M. DC. XLV.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:153075:2"/>
+            <pb n="1" facs="tcp:153075:2"/>
+            <head>A Letter to a Friend, ſhewing the ille<g ref="char:EOLhyphen"/>gall proceedings of the Two Houſes of PARLIAMENT.</head>
+            <opener>
+               <salute>Coſen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou know how earneſtly, and with what charge I oppoſed the illegal de<g ref="char:EOLhyphen"/>mands of Ship-money and Loanes, how I hated Court <hi>Monopolies,</hi> and arbitrary Juſtice in the <hi>Star chamber, Councell Table,</hi> and <hi>Marſhalls Court,</hi> how I abhorred the exorbitance of the High Commiſſion; all which the King readily rectified in the begin<g ref="char:EOLhyphen"/>ning of this Parliament.</p>
+            <p>You know with what cheerefulneſſe I tendred my purſe (my perſon being unſerviceable) for the Reformation of Religion, the ſuppreſſing Popery, the eſtabliſhment of our liberties and properties, the removing of evill Counſellors, the reducing the King to his great Counſel the Parliament, and the uniting of the Siſter Countries in a Brotherly U<g ref="char:EOLhyphen"/>nion.</p>
+            <p>You remember how willingly we declared and proteſt<g ref="char:EOLhyphen"/>ed, that for the ſafety of the Kings perſon, the defence of the Houſes of Parliament, the Proteſtant Religion eſtabliſhed, the Lawes, Liberty, and Peace of the Kingdome, we would live and dye with the Earle of <hi>Eſſex.</hi> And this being firſt
+<pb n="2" facs="tcp:153075:3"/> commanded by the Houſes of Parliament, then ſeconded by the Pulpit, carryed the face of Law and the voice of Religi<g ref="char:EOLhyphen"/>on, ſo that with us was all <hi>Iſrael</hi> from <hi>Dan</hi> to <hi>Beerſheba.</hi>
+            </p>
+            <p>We poſſeſt all the walled Cities, while the King like <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in the mountaines had not a Towne to retreat to. Wee had thouſands of the choice men ſtrongly armed, while the King had only a handfull of out-law'd Cavaliers (as we call them) and them naked, not a musket, ſcarce a ſword among them. We had all the Crowne revenue, all the City plate to bodkins and thimbles, even talents of gold and ſilver, and the King ſcarce enough to buy his dinner. Our Magazines ſwelled with Armes, Ordnance, &amp; Ammunition of all ſorts; while the King (the Houſes having ſeized his) wanted all. And leſt he ſhould have ſupplyes from beyond<g ref="char:punc">▪</g> Sea, we poſ<g ref="char:EOLhyphen"/>ſeſt all his Navie, all his Port-Townes, and left him not a Cock-boat, not a Haven. And better then all theſe, we had the advantage of a juſt Cauſe, fighting for God, and refor<g ref="char:EOLhyphen"/>mation of religion, (as our Preachers taught us) for the de<g ref="char:EOLhyphen"/>fence of the Kings Perſon, our Lawes, the properties and liberties (as the Two Houſes told us) of Subjects, and theſe backed with the pious Faſts and Humiliations of San<g ref="char:EOLhyphen"/>ctified Congregations, with humble and earneſt prayers for ſucceſſe.</p>
+            <p>And could ſo iuſt a Cauſe, ſo piouſly mannaged, by ſuch religious Patriots, can ſuch miſcarry or want ſucceſſe? E<g ref="char:EOLhyphen"/>ſpecially, while on the other ſide the Kings ſmall Army was unarmed, Idolatrous and Popiſh Cavaliers; their Cauſe iuſtifying of Idolatry, Popery, Superſtition, maintenance of Biſhops, rebellion againſt the Parliament, and ſubverſion of the fundamentall lawes; their prayers (if any) for ſucceſſe but ſupplications out of a Popiſh Liturgy. And what can ſuch Armies, ſuch Perſons, ſuch a Cauſe, ſuch prayers expect but deſtruction?</p>
+            <pb n="3" facs="tcp:153075:3"/>
+            <p>Thus both Pulpit and Parliament miſſe-led me, untill of late I conſidered the ſucceſſe of both ſides, and doe you weigh them indifferently, and then tell me where wee can boaſt a Victory? For if wee conſider the Battailes wee moſt brag of, thoſe at <hi>Keinton, Alresford, Lanſdowne, Yorke, Newbury,</hi> we ſhall finde the ſucceſſe ſuch, as if heaven rather intended both ſides vanquiſhed, then us Victors.</p>
+            <p>On the other ſide examine the Actions at <hi>Runawaydowne, Newbury, Newarke, Cropready, Leſtithiell, Pontfract,</hi> and elſe<g ref="char:EOLhyphen"/>where, weigh the diſproportions and diſadvantages the Kings Armies fought with, and then view their ſucceſſe, and you will finde it ſo farre beyond the expectation of reaſon, as it is ſcarce within the reach of our beliefe. Inquire what plenty of Men, Armes, Ordnance, great Townes and ſtrong holds the King now hath, and ſo many have we loſt. Conſider how many thouſands of men, how many Armies my Lord of <hi>Eſſex,</hi> my Lord of <hi>Mancheſter,</hi> and Sir <hi>William Waller</hi> have loſt, how much treaſure they have exhauſted, how our Navy is decayed, how many of our ſhips and men drowned, while we had no enemy at Sea but heaven? Nay how many of our Ships with their lading have the windes (ſiding againſt us) carried into the Kings aide, and our de<g ref="char:EOLhyphen"/>ſtruction? And can theſe argue leſſe then Gods diſpleaſure againſt our proceedings?</p>
+            <p>Theſe ill ſucceſſes made me looke backe upon our State Actors, that ſit at the helm and direct all things, and among them even thoſe that were beſt reputed of, for Reformation and integrity to the Common-wealth: as Maſter <hi>Hampden,</hi> that firſt raiſed Armes againſt the King, when (as wee thought) out of danger, you ſhall find him ſhot in <hi>Chalgrove</hi> field where the year before he had firſt taken up his Armes. You may ſee Patriot <hi>Pym,</hi> whom the people for his Speech applaud like <hi>Herod,</hi> like <hi>Herod</hi> eaten up of Lice,
+<pb n="4" facs="tcp:153075:4"/> The Lord <hi>Brooke</hi> (armed as Death could not enter him, and at a diſtance danger could not reach) breathing out threats againſt the Church, is before the Church with a ſingle bullet ſhot in the eye. My Lord <hi>Say</hi> (whom Heaven cannot hurt, if the plot hold,) hath one Sonne ſcorned for being a Coward in ſo good a bad Cauſe, his other Sonne condemned to be hanged for being honeſter then his Fa<g ref="char:EOLhyphen"/>ther in delivering <hi>Briſtol.</hi> Sir <hi>John Hotham</hi> and his Sonne, whom the Houſes juſtified for Treaſon againſt the King, the Houſes (to maintaine their priviledge) execute firſt the Sonne, then the Father by a Court of Warre for think<g ref="char:EOLhyphen"/>ing to be honeſt. And as if the ſame method were to be ob<g ref="char:EOLhyphen"/>ſerved for the whole Houſe, they are hanging young <hi>Waine<g ref="char:EOLhyphen"/>man</hi> to come to my Lord his Father. The Earle of <hi>Eſſex</hi> whom the firſt yeere they ſalute with <hi>Hoſanna's,</hi> paſſe votes for his thanks and trophies; but now decry, and as much as they dare ſcorn and neglect him. <hi>Warwick</hi> and <hi>Mancheſter,</hi> (like Tinker <hi>Fox,</hi> and Rag-man <hi>Phips</hi>) muſt now be ſqueez<g ref="char:EOLhyphen"/>ed (as orenges) to make ſauce for the Juncto palats, they are rich. Others there be deſerve obſervation. While I con<g ref="char:EOLhyphen"/>templated theſe great active men and their misfortunes, I could not thinke them leſſe then farthing ſparrowes, which fall not without the Divine providence, &amp; therefore ſtrictly examined our Cauſe by the Rules of Law and Goſpel, and in a matter of this conſequence I have taken the beſt opini<g ref="char:EOLhyphen"/>ons both of Divines and Lawyers, and of both the moſt moderate, yet ſuch as were rather engaged on ours, then on the Kings ſide.</p>
+            <p>All the Divines agree, our Kings to have their power from God, and therefore Saint <hi>Peter</hi> commands obedience to <hi>Kings,</hi> as to the <hi>Supreame;</hi> Saint <hi>Paul</hi> to the <hi>Higher powers,</hi> for there is <hi>no power but from God,</hi> and <hi>therefore</hi> (ſaith he) <hi>pay ye tribute.</hi> And they obſerve that theſe commands were to
+<pb n="5" facs="tcp:153075:4"/> 
+               <hi>Chriſtians;</hi> the obedience commanded to be given to <hi>Pagans,</hi> to heatheniſh Kings, as the <hi>Romans,</hi> thoſe of <hi>Pontus, Aſia, Bithynia, &amp;c.</hi> The Divines obſerve that Saint <hi>Peters</hi> Epiſtle was to Strangers in <hi>Pontus, Galatia, &amp;c.</hi> not natives; they tyed only by a locall allegeance, wee by a locall, by a na<g ref="char:EOLhyphen"/>tive, by a ſworne alleageance; they to a heatheniſh, we to our annointed Chriſtian King.</p>
+            <p>All Divines agree <hi>Chriſt</hi> would not have his Church his Goſpell planted by any blood, but his own, and therefore would not ſuffer Saint <hi>Peter</hi> to ſtrike, to reſcue him his King, his God. <hi>Chriſt</hi> then will not that his vine ſhould be dreſt, his Church reformed with the blood of Chriſtians. Yet now our reformed Religion permits ſubjects (Jeſuite<g ref="char:EOLhyphen"/>like) to fight againſt their King, for the propagation of the Goſpel. And that <hi>all things</hi> be <hi>done</hi> (as the Apoſtle directs) <hi>decently and in order,</hi> they have ſuppreſt all Church-Govern<g ref="char:EOLhyphen"/>ment, and left almoſt every man to be his owne Biſhop, and if he will his owne Prieſt. The Booke of Common-Prayer compoſed by all the Clergy of England, and they legally called, confirmed and ſealed by their blood, and comman<g ref="char:EOLhyphen"/>ded by ſeverall Parliaments for theſe 100. yeares, yet now on a ſudden voted downe as Popiſh. But not one particu<g ref="char:EOLhyphen"/>lar exception to any one thing in the Liturgy.</p>
+            <p>But a ſet forme of Prayer is a binding of the Spirit, and therefore our new <hi>Directory</hi> tyes not the ſpirit to words (for the cloven tongues ſpeake all languages) but the <hi>Aſſembly of Godly Divines,</hi> preſcribes only the matter or effect of their prayer, leſt the ſpirit being at too much liberty ſhould pray againſt the Cloſe Committee and their proceedings.</p>
+            <p>The ten Commandements and Commination (as re<g ref="char:EOLhyphen"/>ſtraining our Chriſtian Liberty and <hi>Judaicall;</hi>) the Creed (not yet rectified according to the ſence of the houſe) as er<g ref="char:EOLhyphen"/>roneous; the Epiſtle and Goſpels (fitted to the Cele<g ref="char:EOLhyphen"/>bration
+<pb n="6" facs="tcp:153075:5"/> of their ſeverall dayes) as Popiſh, according to the Diſcipline of the Kirke of <hi>Scotland,</hi> are all excommunicated. So that now in our new Reformed Church we have neither good Commanded, nor evill prohibited, no faith confeſt, nor good example to imitate.</p>
+            <p>The Reading Pſalmes had beene totally baniſhed the Church, becauſe written by a King; but in reſpect <hi>David</hi> was a Prophet too, they are left to the wiſdome of the Mi<g ref="char:EOLhyphen"/>niſter, to read if he will. But the better Meetre of <hi>Hopkins</hi> and <hi>Sternhold,</hi> becauſe compoſed by Commoners, are com<g ref="char:EOLhyphen"/>manded to be ſung, to awaken the ſleepie devotion of the otherwiſe mute Congregation. I pray thee pardon mee, that I a little ſport with our miſery; but 'tis in private, and onely to thee.</p>
+            <p>All the Lawyers I have ſpoken with (except <hi>Corbet</hi> and Maſter <hi>Prideaux</hi>) unanimouſly agree that all Ordinances made by one or both Houſes of Parliament without the King's aſſent are (like man without the breath of life) handſome models, but uſeleſſe: and that all things done or acted by colour or direction of thoſe Ordinances are ille<g ref="char:EOLhyphen"/>gall and invalid, and that there is neither preſident to war<g ref="char:EOLhyphen"/>rant, nor reaſon to maintaine them.</p>
+            <p>And that both our ancient and moderne Lawes were made by the King, but adviſed and conſented to by both Houſes; all which appeares clearly in the penning of our Ordinances and Acts of Parliament, even from <hi>H.</hi> 3. untill within theſe two yeares; for they run thus: <hi>The King at the inſtance of his great men provided and ordeined that, &amp;c.</hi> And that manner of penning held untill <hi>R.</hi> 2. and then <hi>The King by aſſent of the Lords, and at the requeſt of the Commons ordaines and eſtabliſheth, &amp;c.</hi> And all the following Parliaments even this preſent in the Act for the Trienniall Parliament uſes the ſame words, <hi>Bee it enacted by the King, with the conſent of the
+<pb n="7" facs="tcp:153075:5"/> Lords and Commons.</hi> So that in all ages the King made the law, the Lords and Commons doe but adviſe and conſent thereunto, and cuſtome (that is, a great part of our law) will not that any old law be abrogated, or a new law made, but by the King with the conſent of the two Houſes, and they are all confident that Maſter <hi>Pryn</hi> cannot ſhew any one Or<g ref="char:EOLhyphen"/>dinance made without the Kings aſſent, nor any one booke or any ancient opinion that they might; nay the very pra<g ref="char:EOLhyphen"/>ctice of the Houſes is againſt it; inſomuch as nothing is of re<g ref="char:EOLhyphen"/>cord with them but what hath life by the Kings aſſent. So as if a bill hath paſſed in both Houſes, yet that if the Seſſi<g ref="char:EOLhyphen"/>ons of Parliament end before the Kings aſſent had to that Bill, the next Seſſions the ſame Bill muſt be as at firſt thrice read in both Houſes; and againe, have all the formalities and circumſtances as it had the firſt Seſſions; for they cannot this Seſſions take notice of their owne Actions in that before.</p>
+            <p>The Knights, Citizens, and Burgeſſes, are but Atturnies or Deputies for their ſeverall Counties, Cities, and Bo<g ref="char:EOLhyphen"/>roughs, and therefore they cannot (as Barons which ſit in their owne right) make a Deputy or party to conſent or act for them: becauſe by law an Atturney cannot make an Attur<g ref="char:EOLhyphen"/>ny, &amp; aſſigne the power and truſt to another which is repoſed in himſelfe, and therefore cannot make Committees in ſeve<g ref="char:EOLhyphen"/>rall Counties to raiſe armes, to commit their fellow Sub<g ref="char:EOLhyphen"/>jects, &amp;c. Nor can Atturnies exceed or alter the power gi<g ref="char:EOLhyphen"/>ven them by their deputation or letter of Atturney, but muſt follow that. And what the power and authority given them is appeares in their Indenture betweene the Sheriffe and thoſe that elect them: which is but according as the Kings writ requires<g ref="char:punc">▪</g> &amp; not power to doe what they liſt, as appeares by <hi>Crompt. Ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is<g ref="char:punc">▪</g> fol.</hi> 2.</p>
+            <p>The conſtant practice and courſe of Courts beſt ſhewes the power and jurisdiction of the Court, (ſay the Lawyers)
+<pb n="8" facs="tcp:153075:6"/> and they averre that there is not any one Ordinance of Par<g ref="char:EOLhyphen"/>liament to be found made by the Lords and Commons without the Kings aſſent. and ſurely had the two Houſes ſuch power, the Parliament of <hi>Ewd. 2. Rich</hi> 2. and <hi>Hen.</hi> 6. ſo bitter againſt the King, would have found both the prece<g ref="char:EOLhyphen"/>dent, and made uſe of the power.</p>
+            <p>Let theſe therefore that are ſo ready to raiſe armes with<g ref="char:EOLhyphen"/>out the Kings aſſent, nay contrary to his Command, nay e<g ref="char:EOLhyphen"/>ven againſt His Perſon, let them conſider, that in <hi>Rich.</hi> 2. where his Barons of Parliament and others by colour and in perſuance of an Ordinance of Parliament, whereby <hi>Hugh De le Spencers</hi> were baniſhed and to be proceeded againſt as enemies to the King and Kingdome in caſe they did returne; The Sonne returning to the King, the Barons and others pretending that the <hi>De le Spencers</hi> could not be legally attain<g ref="char:EOLhyphen"/>ted by proceſſe of law, becauſe they (the <hi>De le Spencers</hi>) had uſurped the Royall power, and therefore in caſe of neceſſity (for ſo is the Booke of old <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. Char. fol</hi> 54.) mutually bound themſelves by oath, (as we by our Proteſtations) and with Armes and banners diſplayed perſue the <hi>De le Spencers,</hi> and kill and impriſon divers of the King Subjects, and take their Towns, Caſtles, Houſes, &amp;c. and all without the Kings aſſent, (as ours doe) for which the were glad to take a par<g ref="char:EOLhyphen"/>don, (as ours would be of an act of oblivion the <hi>Scotch</hi> word for a generall pardon) for that oath, their armes, &amp;c.</p>
+            <p>Touching the opinion raiſed this Parliament, that the two Houſes are aboue the King, and therefore the King ought and muſt paſſe ſuch Bills, ſuch Acts as they reſolve and offer to him.</p>
+            <p>That (ſay the Lawyers) is totally falſe and againſt all rea<g ref="char:EOLhyphen"/>ſon, law, and practice in all ages. And in conſidering thereof they have not bin led by the pamphlets publiſhed this Parliament on either ſide, becauſe ſuch (like Schoole-Diſ<g ref="char:EOLhyphen"/>putants)
+<pb n="9" facs="tcp:153075:6"/> rather endeavour to maintaine their poſition and ſide, then to diſcover truth: therefore the Lawyers groun<g ref="char:EOLhyphen"/>ded their judgement upon bookes formerly written, upon precedent<g ref="char:punc">▪</g> of moderate times, when the Kings Prerogative and Subjects liberty both knew and kept their proper bounds.</p>
+            <p>The Parliament (ſay they) of the 24. <hi>Hen. 8 cap.</hi> 12. De<g ref="char:EOLhyphen"/>clares, That <hi>the Realme of</hi> England <hi>is an Empire governed by one Supreame Head and King, having the Dignity and eſtate of the Imperiall Crowne, unto whom a body politique compact of all ſorts and degrees of people by the name of the Spirituality and Tem<g ref="char:EOLhyphen"/>poraliy been bound, and one next so God a naturall and humble o<g ref="char:EOLhyphen"/>bedience, being by Gods goodneſſe endued with plenary whole and entire Power Authority and Iuriſdiction within His Realme.</hi>
+            </p>
+            <p>This body politique no doubt is the two Houſes of Par<g ref="char:EOLhyphen"/>liament, and doubtleſſe then the two Houſes owe this natu<g ref="char:EOLhyphen"/>rall and humble obedience; and then ſure if the Servant be not greater then his Maſter to whom he owes his obedience, the Creature then his Creatour<g ref="char:punc">▪</g> then the two Houſes that (as appeares by their owne act for the continvance of this Parliament) are called by the King, and by Him diſſolvea<g ref="char:EOLhyphen"/>ble, are not above the King, that is their breath and gives life to all their actions.</p>
+            <p>And it the <hi>King</hi> be by God endued <hi>with plenary power, en<g ref="char:EOLhyphen"/>tire Authority and Iuriſdiction.</hi> Conſider from whom can the two Houſes have their power, their authority, and Juriſdi<g ref="char:EOLhyphen"/>ction to be above that given by God.</p>
+            <p>In <hi>Caudries</hi> caſe in the 5. <hi>Report. fol</hi> 10. the King is ſaid to be <hi>the Vicar of the Higheſt King, Ordained to governe and rule the Kingdom and People.</hi>
+            </p>
+            <p>The Parliament in the 25. <hi>Hen.</hi> 8. acknowledged the Juriſ<g ref="char:EOLhyphen"/>diction of Kings to be <hi>immediatly from God.</hi>
+            </p>
+            <p>The Statute of the 26 of <hi>Hen. 8. cap.</hi> 1. declares the King
+<pb n="10" facs="tcp:153075:7"/> to be the <hi>onely Supreame Head in Earth under God of the Church of England,</hi> and that hee <hi>hath Power to redreſſ and reforme all Errors and abuſes in the Church.</hi>
+            </p>
+            <p>In the 26 <hi>Hen. 8. cap.</hi> 3. the Parliament declares, that the <hi>King is the onely Supreame Head under God of the Church of Eng<g ref="char:EOLhyphen"/>land, having the whole Governance, tuition and defence thereof, and of His Subjects.</hi>
+            </p>
+            <p>And conſonant to that is our Statute, 1 <hi>Eliz.</hi> and in our Oath of Alleagiance, (ordained by Act of Parliament) wee and eſpecially the Members of the Houſe of Commons ac<g ref="char:EOLhyphen"/>knowledge and ſweare, That <hi>the Kings Highneſſe is the onely Supreame Governour of the Realme, both in Eccleſiaſticall and Temporall cauſes.</hi> And our Lawyers ſay, that the King being the Supreame governour cannot have any Governour natu<g ref="char:EOLhyphen"/>rall or politique, (as the two houſes) above him; and as hee is the onely Supreame Governour muſt needs bee above all other Governours either naturall or politique.</p>
+            <p>By the ſame Oath we ſweare allegiance to Him and His <hi>Heires and Succeſſours,</hi> which muſt needs be to his Naturall capacity, for his politique cannot have Heires. And in the caſe of the Dutchy of <hi>Lancaſter, Plowd.</hi> 213. It is reſolved that the body politique of the King cannot be ſevered from his naturall body. And then it is ridiculous to thinke, much more to ſay, that the politique capacity of the King is inclu<g ref="char:EOLhyphen"/>ded in the two Houſes of Parliament, when his naturall is abſent and diſſenting to what they doe.</p>
+            <p>If the two Houſes could make a Law or Ordioance to binde the Subject without the Kings aſſent, why ſhould not all the bils that paſſed both houſes but had not the Kings, aſ<g ref="char:EOLhyphen"/>ſent, why ſhould not they be good and valid, and binde the Subject? they had the Votes of both Houſes when full and entire, they had more conſideration, more circumſtance, all neceſſaries (but the Kings aſſent) to the making of a Law; yet
+<pb n="11" facs="tcp:153075:7"/> theſe Bills in all ages have beene held naught and invalid. And ſhall the votes of the two houſes upon motion of a wor<g ref="char:EOLhyphen"/>thy Member (though not a 5<hi rend="sup">th</hi> part of either Houſe be pre<g ref="char:EOLhyphen"/>ſent) and without the Kings aſſent, ſhall they make a good Ordinance to repeale five Statutes in the Reignes of <hi>Edw</hi> 6. and Queene <hi>Eliz.</hi> as in the Ordinance for the Directory, and the booke of Common Prayer? all which have ſtood unqueſtioned theſe 100 yeares, in which time wee have had 20 Parliaments, in which our now Parliament-mens Fa<g ref="char:EOLhyphen"/>thers and Grand-fathers were <hi>Members,</hi> and (I believe) as wife, as honeſt, and as Religious, as their Sonnes and Grand<g ref="char:EOLhyphen"/>children, and they approved, they practiced and followed that Liturgy.</p>
+            <p>The Parliament 1 <hi>Jacob. cap.</hi> 1. prayes the Kings Royall aſſent to a Bill, without which nothing (ſay they) <hi>can be com<g ref="char:EOLhyphen"/>pleate and perfect, nor remaine to poſterity.</hi> And <hi>Cowell</hi> (who writ about 40 yeares ſince) ſpeaking of the regally of the King, compriſed <hi>under the title of Prerogative, There is not one</hi> (ſaith he) <hi>that belonged to the moſt abſolute Prine in the world, which doth not alſo belong to our King, only by the cuſtome of this Kingdome he maketh no lawes without the conſent of the three E<g ref="char:EOLhyphen"/>ſtates,</hi> [Lords ſpirituall, Lords temporall, and the Com<g ref="char:EOLhyphen"/>mons] <hi>though</hi> HE MAY Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ASH ANY KAVV CONCLUDED BY THEM. Then how ſhall the Votes and Ordinances of a ſmall part of the Houſe be good, when againſt <hi>Magn. Char.</hi> againſt the Petition of Right, againſt our Allegiance and Proteſtation? Yet muſt we venture our lives to murther our brothers, and fellow Subject, or they us, or both, to main<g ref="char:EOLhyphen"/>taine what they vote, though againſt Law, contrary to the Goſpell, and without precedent, But the two Houſes do but endeavour to take the King from His Evill Counſellours to bring him to his Parliament, where he ought to be preſent &amp; reſident, or elſe they may force him, yea eradicate three ears
+<pb n="12" facs="tcp:153075:8"/> of Wheate to deſtroy one of Tares.</p>
+            <p>For that (ſay the lawyers) there is no precedent, no book unleſse writ within theſe two yeares. But <hi>Mr. Hooker,</hi> alias <hi>Vowell,</hi> (who writ about the beginning of Queene <hi>Elizab.</hi> and is much quoted by <hi>Mr. Pryn</hi>) writing the manner of hold<g ref="char:EOLhyphen"/>ing of Parliaments (as we may ſee in <hi>Hollinſhead, 2 part. fol.</hi> 121) ſaith, that the King is Gods Anointed, his Deputy and Vicar on earth, the Head of his Realme, the Cheifeſt Ruler, on whom wholly and only depends the government of the Eſtates of the Realme. That the King ought to be perſonally<g ref="char:punc">▪</g> preſent in Parliament three daies in every Parliament, firſt, on the day of appearance; ſecondly, on the day when the Speaker of the Houſe of Commons is preſented; the third, when the Parliament is prorogued. And for other daies (ſaith the Book) he is at his choice, to come or not to come.</p>
+            <p>And it appeares by the Statute of 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hen. 8 c p.</hi> 21. That if the King be abſent from the Parliament, he might alwaies give his Royall aſsent by Commiſſion under the great S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale, and by that it ſeemes hee had liberty to bee abſent if hee would.</p>
+            <p>When <hi>Rich.</hi> 2. refuſed to come to his Parliament, the Lords (that threatned to depoſe his) only averted<g ref="char:punc">▪</g> that by an old Ordinance of Parliament if the Kng abſented himſelfe forty daies, then they might every man returne quietly to his own houſe, and that they would do ſo if he came not; but they pretend no law to raiſe armes, to compell the King to come. And ſurely had there beene any colour to juſtifie it they would not have omitted it, and if there had been any law or precedent (though by popiſh Parliaments) ſince <hi>Rich.</hi> 2. time to raiſe armes or make lawes without the Kings aſsent. <hi>Mr. Pryn's</hi> Zeale to the Cauſe and hatred to the King would have found it before now.</p>
+            <p>Since therefore that the two houſes cannot without the
+<pb n="13" facs="tcp:153075:8"/> Kings aſſent make a new nor abrogate an old law, cannot without the Kings aſſent raiſe armes to execute a perſon condemned by Parliament with the Kings aſſent (as in <hi>Hu-De le Spencers</hi> caſe) but they muſt have a pardon for it. In what caſe are we, that haue without the Kings aſſent, nay contrary to his expreſſe Command, contrary to <hi>Mag. Char.</hi> contrary to our Petition of Right, 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Car.</hi> by armes taken the 20<hi rend="sup">th</hi> part of every mans eſtate, impriſoned their perſons, impoſed new leanes, and new impoſitions, hanged Citizens and Gownmen, contrary to the Priviledges of Parliament, executed even Members of the Parliament by Martiall Law, and at the Parliament doore, while the Houſes of Parliament were ſitting, the Kings bench (as wee pretend) open at <hi>Weſt<g ref="char:punc">▪</g> minſter,</hi> the Goale delivery for <hi>London</hi> and <hi>Middleſex</hi> in the <hi>Old B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi> Nay contrary to our Petition of Right, and our Sta<g ref="char:EOLhyphen"/>tute made this Parliament, have wee not in the Kings name becauſe we could not in our owne, preſſed our fellow Sub<g ref="char:EOLhyphen"/>jects, and by armes compelled them to fight? Contrary to their ſworne alleagiance and vowed Proteſtation, which is to maintaine the reformed Proteſtant Religion, expreſſed in the Doctrine of the Church of <hi>England;</hi> Yet wee fight to turne out the Liturgy, and prayers ordained by the whole Church of <hi>England,</hi> and which wee have long knowne to make roome for the extemporary and unknowne prayer of a ſingle man, and him often unlearned, ſometimes debauch<g ref="char:EOLhyphen"/>ed, and this according to the Kirke of <hi>Scotland,</hi> not of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> to <hi>defend the Kings Royall Perſon, His Honour, His Eſtate,</hi> yet wee juſtifie them that fight againſt him, that permit nay licence libellous pamphlets againſt him and his honour, that robbe his Exchequer by receiving and keeping from him his R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>venew: <hi>to maintaine the Previledges of Parliament,</hi> yet h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the Members to priſon, nay to execution by Mar<g ref="char:EOLhyphen"/>tiall Law: <hi>to Maintaine the Lawfull Rights and Liberties of
+<pb n="14" facs="tcp:153075:9"/> the Subject,</hi> yet fight to have our Eſtates, Liberties, and Lives taken away by Votes, Ordinances, and Martiall Law, and a<g ref="char:EOLhyphen"/>gainſt the Kings command. We have proteſted to preſerve the <hi>peace of England, Scotland, and Ireland,,</hi> yet fight here a<g ref="char:EOLhyphen"/>mong our ſelves to annihilate and breake the Ceſſation of Armes and the peace there, and ſend for <hi>Scots</hi> the hither to robbe, murder, and (if God be not better to us then we to our ſelves) utterly ſubdue and inſlave us, to ſet up and en<g ref="char:EOLhyphen"/>rich themſelves.</p>
+            <p>By what law can the <hi>Scots</hi> preſcribe us a Church govern<g ref="char:EOLhyphen"/>ment? by what law have they (our <hi>Homagers</hi>) a voice in the ſetling of our <hi>Militia,</hi> and the lawes of our Nation?</p>
+            <p>To conclude, we fight to ſave a few cloſe-Committee men, our Sate-actors that have perſwaded and voted us, and inforced the poore common ſouldiers to commit ra<g ref="char:EOLhyphen"/>pine, bloud-ſhed, Sacriledge, and Rebellion, to protect them, who with <hi>Shimei,</hi> reviled and flung ſtones and duſt at <hi>David</hi> by their Declarations and Pamphlets, who by their Remonſtrances and Votes endeavoured to diſcover with <hi>Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> the nakedneſſe of their father, who following the Counſell of <hi>Achitophel,</hi> have in the ſight of all <hi>Iſrael</hi> lyen with <hi>Davids</hi> Concubines, by uſurping his Authority and Royall power. We fight to ſecure them, whom an act of oblivion cannot, and therefore muſt have the <hi>Militia</hi> at their ſole diſpoſe, that the ſwords, and lives of the poore ſouldiers may protect, whom the law cannot juſtifie. We fight to make <hi>London</hi> an Independent City, to make the Maior Aldermen and Common-Councell a third Houſe of Parlia<g ref="char:EOLhyphen"/>ment, and give them <hi>the Tower of London<g ref="char:punc">▪</g> with the Militia of the City and Suburbs,</hi> leaſt the King being but Gods Vicar on earth, their onely ſupreme Governour and Soveraigne Lord, as ſeverall Acts of Parliaments have declared, leaſt he ſhould rebell againſt them his native, his locall and his
+<pb n="15" facs="tcp:153075:9"/> ſworne Subjects. We fight to aboliſh the ten Comman<g ref="char:EOLhyphen"/>dements, the Creed, the Epiſtles and Goſpels, becauſe not conſiſtent with the <hi>Scots</hi> Presbyteriall Diſcipline. What one act of Charity or Mercy have theſe reformers of Reli<g ref="char:EOLhyphen"/>gion done? Where have they offered to the King to part with any thing of any pretended right, liberty, or priviledge, to ſettle a peace in this Church and Common-wealth? Nay which of theſe is not greater in eſtate and wealth, in power and authority, then he was before the Civil War began, or ſhall be after the War ended?</p>
+            <p>Have not the Earles of <hi>Warwicke, Mancheſler,</hi> and others that you know much inriched themſelves and friends by the harveſt of this War? Have not their Chaplains, <hi>Burges, Sedge<g ref="char:EOLhyphen"/>wicke, Caſe, Peters,</hi> and others treble revenues and in-comes, to preach Doctrines anſwerable to the occaſion of raiſing money, men, or Armes, or crying no Treaty, no Peace? Do<g ref="char:EOLhyphen"/>ctrines ſutable to their Church and practice, that have in cold blood murdered many poore Proteſtant <hi>Engliſh-Iriſh,</hi> for being on the Kings ſide.</p>
+            <p>While on the other part the King not delighting in bloud, hath pardoned divers whom the Law condemned, nay he hath proclaimed pardon to all that would take it, and to purchaſe peace, he hath offered to part with his right, to divide his <hi>Militia,</hi> putting it into the power of twentie men, whereof he to name ten, and the two Houſes ten Commiſſi<g ref="char:EOLhyphen"/>oners. He deſires and offers that Popery may be ſuppreſt according to Law, and not Papiſts murdered becauſe Iriſh. Hee is willing that both Church and Common-wealth ſhould be rectified according to law, and according to law he offers to have all perſons to be tryed by law. He commi<g ref="char:EOLhyphen"/>ſerating his oppreſſed Subiects the diſtracted Church and ru<g ref="char:EOLhyphen"/>ined Common-wealth, hath offered and deſired a Ceſſation
+<pb n="16" facs="tcp:153075:10"/> from Armes, but cannot obtaine it; and then ſhall we not beleeve him the true father that would ſave the child? God would not have his Temple built by a man of blood, though even <hi>David;</hi> nor would Chriſt have his Church reformed with the blood of Chriſtians. The King of peace cannot de<g ref="char:EOLhyphen"/>light in warre.</p>
+            <p>Upon theſe Conſiderations, Coſen, I am reſolved to leave their party that have miſſe-led me and my poore Country<g ref="char:EOLhyphen"/>men to our ruine; and I will now lay hold of the Kings mer<g ref="char:EOLhyphen"/>cie and pardon offered by his Proclamation, and by a hearty repentance I hope to expiate the bloud, the treaſon, and ſacriledge, I have countenanced by my former opini<g ref="char:EOLhyphen"/>ons, and ſupported by my purſe and perſwaſions. And I do heartily wiſh, that my poore Country-men and Neighbors that by an illegall preſſe are forced from their Wives and Children, from their parents and Friends, to fight againſt the Engliſh Proteſtant Religion and Liturgy, to ſet up a Scotch Directory againſt their King, to pay a tribute to their fellow Subjects; againſt their Proteſtation to protect ſuch as have ſeduced and deceived them and their nations, that have raiſed this unnaturall warre upon pretences; feares and jealouſies, and by the murther of many thouſand Eng<g ref="char:EOLhyphen"/>liſh Chriſtians, keep themſelves from a legall tryall, that they may ſtill ſit quietly voting at <hi>Weſtminſter,</hi> and eate the fat of the Land.</p>
+            <p>Coſen, I doe heartily wiſh that both you and the reſt of my poore Countrey men would conſider and weigh theſe things, and that God would give you relenting hearts truly penitent for theſe horrid ſinnes, and then I would not doubt but you and they would end this warre (for 'tis in your po<g ref="char:EOLhyphen"/>wers) by returning to the Engliſh Proteſtant Religion and Liturgy, to your ſworne alleageance to your Anointed
+<pb n="17" facs="tcp:153075:10"/> King, and then to your owne vines and figge-trees. And no doubt but both you and they ſhall receive from God and the King the bleſſings due to the bleſſed peace-makers: which is heartily prayed for by him that will lead you the way,</p>
+            <closer>
+               <dateline>
+                  <date>May 15. 1645.</date>
+               </dateline>
+               <signed>A. C.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153075:11" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
